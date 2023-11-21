@@ -1,8 +1,8 @@
 ### Hi Geek!! 
 
-- 👋 I’m Muhammad Adil Khan, 3rd year Undergraduate at Fast-Nuces.
-- 💻 I love doing problem solving and learning new algorithms.
-- 🌱 I'm exploring different fields in software development, devops and learning new skills.
+- 👋 I’m Muhammad Adil Khan, Final year Undergraduate at Fast-Nuces.
+- 💻 I love doing problem-solving and learning new algorithms.
+- 🌱 I'm exploring different fields in software development, Devops and learning new skills.
 - ⚡ Hobby - Watching anime and cricket
 - 📫 You can contact me through email - ranaadil571@gmail.com
 - Portfolio - https://fragile-goat-helmet.cyclic.app/
