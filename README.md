@@ -1,6 +1,6 @@
 ### Hi Geek!! 
 
-- 👋 I’m Muhammad Adil Khan, SWE at Cogent Labs.
+- 👋 I’m Muhammad Adil Khan, working as a software engineer.
 - 💻 I love doing problem-solving and learning new algorithms.
 - 🌱 I'm exploring different fields in software development, DevOps and learning new skills.
 - ⚡ (Hobbies) I like - cricket, anime, philosophy, poetry.
