@@ -3,7 +3,7 @@
 - 👋 I’m Muhammad Adil Khan, working as a software engineer.
 - 💻 I love doing problem-solving and learning new algorithms.
 - 🌱 I'm exploring different fields in software development, DevOps and learning new skills.
-- ⚡ (Hobbies) I like - cricket, anime, philosophy, poetry and gaming.
+- ⚡ (Hobbies) I like - cricket, anime and gaming.
 - 📫 You can contact me through email - ranaadil571@gmail.com
 
 
